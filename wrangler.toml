@@ -2,9 +2,4 @@ name = "signsbydebbie"
 compatibility_date = "2025-12-06"
 compatibility_flags = ["nodejs_compat"]
 
-[build]
-command = "npm run build"
-cwd = "."
-
-[build.output]
-dir = "dist"
+pages_build_output_dir = "dist"
