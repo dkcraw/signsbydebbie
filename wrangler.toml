@@ -1,0 +1,5 @@
+name = "signsbydebbie"  # Your Pages project name (from dashboard URL)
+compatibility_date = "2025-12-06"
+compatibility_flags = ["nodejs_compat"]
+[build]
+command = "npm run build"
