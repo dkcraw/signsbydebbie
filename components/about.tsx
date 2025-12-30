@@ -23,7 +23,7 @@ export function About() {
             />
             <div className="absolute -bottom-6 -right-6 bg-primary text-primary-foreground p-6 rounded-lg shadow-xl hidden md:block">
               <p className="text-4xl font-bold">40+</p>
-              <p className="text-sm">40 Years Experience</p>
+              <p className="text-sm">Years Experience</p>
             </div>
           </div>
 
