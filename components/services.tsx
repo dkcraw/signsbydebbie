@@ -18,11 +18,6 @@ const services = [
     description: "Durable indoor and outdoor banners for events, promotions, and more.",
   },
   {
-    icon: Lightbulb,
-    title: "Illuminated Signs",
-    description: "LED and neon signs that make your business visible day and night.",
-  },
-  {
     icon: PenTool,
     title: "Custom Graphics",
     description: "Unique designs tailored to your brand identity and business needs.",
