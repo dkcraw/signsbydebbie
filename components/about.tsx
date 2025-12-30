@@ -22,8 +22,8 @@ export function About() {
               className="w-full rounded-lg shadow-lg"
             />
             <div className="absolute -bottom-6 -right-6 bg-primary text-primary-foreground p-6 rounded-lg shadow-xl hidden md:block">
-              <p className="text-4xl font-bold">30+</p>
-              <p className="text-sm">20 Years Experience</p>
+              <p className="text-4xl font-bold">40+</p>
+              <p className="text-sm">40 Years Experience</p>
             </div>
           </div>
 
