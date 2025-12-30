@@ -1,7 +1,7 @@
 import { CheckCircle } from "lucide-react"
 
 const highlights = [
-  "Over 30 years of experience",
+  "Over 40 years of experience",
   "Quality materials & craftsmanship",
   "Personalized customer service",
   "Competitive pricing",
