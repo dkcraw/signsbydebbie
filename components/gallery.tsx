@@ -8,8 +8,6 @@ const galleryImages = [
     alt: "Vehicle wrap design",
   },
   {
-    src: "/illuminated-led-business-sign-at-night.jpg",
-    alt: "LED illuminated sign",
   },
   {
     src: "/large-outdoor-banner-for-business-grand-opening.jpg",
