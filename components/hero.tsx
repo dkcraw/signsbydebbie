@@ -7,7 +7,7 @@ export function Hero() {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <img
-          src="/professional-sign-shop-with-neon-signs-and-custom-.jpg"
+          src="/snowsign.jpg"
           alt="Custom signage workshop"
           className="w-full h-full object-cover"
         />
